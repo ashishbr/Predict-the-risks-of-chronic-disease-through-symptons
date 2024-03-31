@@ -6,4 +6,4 @@ scikit-learn~=1.0.1
 numpy>=1.21.2
 pandas
 matplotlib
-gradio
+gradio==3.43.0
